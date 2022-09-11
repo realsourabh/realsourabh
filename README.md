@@ -4,7 +4,15 @@ Hi 👋 My name is Sourabh Singh
 Web Developer
 -------------
 
-Sourabh is the founder and CEO of Shipworth. It's an EXIM company. He is a Mechanical Engineering graduate from Rajasthan Technical University. He has done his post-graduation in Sociology from IGNOU. Sourabh has Diploma in HRM. He has first hand experience in hiring, interviewing, enforcing company policy, and managing workforce retention. He has extensive experience in the core mechanical sector. He has worked in Kakrapar nuclear power station and Essar pipe mill in Gujarat as a NDT technician. He also has experience in business development. He has worked with Paytm and BYJU'S. He's pivoting his career into IT services. He has learned web development by himself and is doing freelance work. Outside work, he does stock trading. He also loves reading and listening to podcasts.
+Sourabh is the founder and CEO of Shipworth. It's an EXIM company. He is a Mechanical Engineering graduate from Rajasthan Technical University. He has done his post-graduation in Sociology from IGNOU. 
+
+Sourabh has Diploma in HRM. He has first-hand experience in hiring, interviewing, enforcing company policy, and managing workforce retention. He has worked as Talent Acquisition Specialist (US Staffing) and is familiar with the full US recruitment process.
+
+He has extensive experience in the core mechanical sector. Likewise, he has worked in Kakrapar nuclear power station and Essar pipe mill in Gujarat as a NDT technician.
+
+He also has experience in business development. He has worked with Paytm and BYJU'S. Furthermore, he's pivoting his career into IT services. He has learned web development by himself and is doing freelance work part-time.
+
+Outside work, he does stock trading. He also loves reading and listening to podcasts.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyResume](http://realsourabh.github.io/cv/)
