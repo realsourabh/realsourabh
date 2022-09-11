@@ -15,7 +15,6 @@ He also has experience in business development. He has worked with Paytm and BYJ
 Outside work, he does stock trading. He also loves reading and listening to podcasts.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyResume](http://realsourabh.github.io/cv/)
 * ✉️  You can contact me at [gabon\_hafnium@slmail.me](mailto:gabon_hafnium@slmail.me)
 * 🧠  I'm learning Angular
 
